@@ -140,6 +140,7 @@ Distribution analysis confirms model captures underlying chemical patterns, not 
 ## Authors
 
 Yassir Masfour, Laila El Janyani 
+
 Supervised by: Dr. Violaine Antoine  
 ISIMA, 2024-2025
 
